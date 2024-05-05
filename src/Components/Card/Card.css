@@ -1,0 +1,36 @@
+#price{
+    font-size: large;
+    text-align: center;
+}
+#title{
+    font-size: small;
+    text-align: center;
+}
+.main{
+    background-color: aqua;
+    width: 250px;
+    height: 500px;
+}
+.card{
+     width:250px;
+     height: 500px;
+
+    /* padding: 15px 15px 15px 15px; */
+}
+.btn{
+margin: 30px; 
+}
+.btn:hover{
+    background-color: orange  !important;
+}
+/* .card-body{
+
+      width:250px;
+
+} */
+.card-body{
+    padding: 30px;
+    border-radius: 25px;
+
+      }
+  
